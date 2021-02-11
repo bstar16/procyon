@@ -30,10 +30,3 @@ jobs:
       with:
       name: 
       path: 
-Available Options:
-  warn: Output a warning but do not fail the action
-  error: Fail the action with an error message
-  ignore: Do not output any warnings or errors, the action does not fail
-
-    if-no-files-found: warn
-    retention-days: 1
